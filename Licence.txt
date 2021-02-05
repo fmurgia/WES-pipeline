@@ -1,8 +1,6 @@
-(C) University of the Witwatersrand, Johannesburg, 2016-2018 on behalf of the H3ABioNet Consortium
-
 MIT Licence
 
-Copyright (c) 2018 H3ABioNet
+Copyright (c) 2021 Federico Murgia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
